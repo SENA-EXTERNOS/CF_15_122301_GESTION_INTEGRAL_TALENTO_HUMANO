@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF_15_122301_GESTION_INTEGRAL_TALENTO_HUMANO/#/](https://sena-externos.github.io/CF_15_122301_GESTION_INTEGRAL_TALENTO_HUMANO/#/)
 
 #
 
@@ -22,7 +22,8 @@
 npm install
 ```
 #
-## **Desarrollo**
+## **Desarrollo**npm run serve
+
 
 ### Montaje de servidor local
 

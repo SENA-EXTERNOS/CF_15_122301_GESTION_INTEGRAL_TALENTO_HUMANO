@@ -42,14 +42,14 @@
       .col-lg-8
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0
-          ul.lista-ul.ps-2
+          ul.lista-ul.ps-2.mb-0
             li 
               i.fas.fa-angle-right.colorv
               p.mb-0 En la primera no hay un orden establecido para el desarrollo de las preguntas, estas irán ocurriendo de acuerdo con el momento y el candidato. No es recomendable realizarla ya que se pierde el orden y no se tienen un criterio para indagar sobre todos los candidatos de la misma manera.
             li 
               i.fas.fa-angle-right.colorv
               p.mb-0 La segunda es polo opuesto a la primera, porque tiene preguntas regidas realizadas a forma de checklist sin poder hacer cambios o ajustes.
-            li 
+            li.mb-0 
               i.fas.fa-angle-right.colorv
               p.mb-0 La tercera es la más recomendable porque aunque hay unas preguntas pre establecidas, es importante que el entrevistador tenga la capacidad para agregar o profundizar según lo que el candidato vaya narrando, pues esta entrevista es caracterizada por ser una conversación fluida, donde las dos partes se sientan cómodos, y el candidato pueda contar genuinamente quién es y sus experiencias previas; es indispensable mantener el orden e hilo conductor que propone la estructura.
 

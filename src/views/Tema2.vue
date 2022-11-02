@@ -39,27 +39,27 @@
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start.py-4
           .col-md-5.mb-4.mb-md-0
             p Para realizar efectivamente el primer método es necesario que se realice en grupo, simultáneo entre los candidatos y bajo una situación que puedan sobrellevar los entrevistados. Dichas variables permiten a los evaluadores identificar las competencias de los aspirantes, cuestionar de manera respetuosa su proceder ante la situación presentada; evaluar, comparar y analizar de manera paralela las estrategias y comportamientos usados por cada uno de ellos.         
           .col-md-6 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/15.png', alt='')    
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start.py-4
           .col-md-5.mb-4.mb-md-0
             p El segundo método consiste en exponer al candidato un caso previo, con el fin que este sea preparado, analizado y presentado con tiempo. El candidato debe realizar una presentación sustentando la situación y proponiendo su solución; es importante que los evaluadores cuestionen la propuesta mostrada para observar las conductas del candidato ante posibles situaciones de estrés o circunstancias difíciles en el contexto laboral.          
           .col-md-6 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='') 
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start.py-4
           .col-md-5.mb-4.mb-md-0
             p Otra manera de implementar este método es a través de casos o situaciones en experiencias anteriores vividas por el candidato, de esta forma el evaluador puede visualizar cómo resolvió la situación y cuáles fueron sus comportamientos.         
           .col-md-6 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/17.png', alt='') 
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start.py-4
           .col-md-5.mb-4.mb-md-0
             p De acuerdo con la explicación anterior, y sin importar cuál sea el ejercicio a desarrollar, es necesario que el jurado evaluador esté conformado por un equipo interdisciplinar con el fin de contribuir al caso desde diferentes puntos de vista, realizar una evaluación en conjunto y tomar una decisión acertada.         
           .col-md-6 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.png', alt='') 
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start.py-4
           .col-md-5.mb-4.mb-md-0
             p Es importante aclarar que esta metodología no se aplica para todos los procesos de selección; se emplea frecuentemente para cargos de liderazgo de media y alta gerencia.         
           .col-md-6 

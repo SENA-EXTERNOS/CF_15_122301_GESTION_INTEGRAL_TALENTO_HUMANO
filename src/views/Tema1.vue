@@ -84,16 +84,16 @@
                   td ofimática  
                   td orientación  al resultado 
 
-    .row.justify-content-center.align-items-start.mb-5           
-      .col-lg-2.my-3
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='')    
-      .col-lg-10.my-3
-        p(data-aos="fade-down").mb-0 Con base en lo anterior, es necesario que desde el área de talento humano se defina cómo se medirá al candidato, bien sea a través de juegos de roles, pruebas psicológicas, análisis de caso, entre otros. Se debe establecer el nivel mínimo requerido para aprobar ese filtro del proceso, identificar cuáles son claves para el cargo a seleccionar y las que podrían generar desarrollo en el marco del proceso de formación. 
+      .row.justify-content-center.align-items-start.mb-5           
+        .col-lg-2.my-3
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='')    
+        .col-lg-10.my-3
+          p(data-aos="fade-down").mb-0 Con base en lo anterior, es necesario que desde el área de talento humano se defina cómo se medirá al candidato, bien sea a través de juegos de roles, pruebas psicológicas, análisis de caso, entre otros. Se debe establecer el nivel mínimo requerido para aprobar ese filtro del proceso, identificar cuáles son claves para el cargo a seleccionar y las que podrían generar desarrollo en el marco del proceso de formación. 
 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-10
-        .cajon.color-acento-contenido.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Además, es necesario contar con la descripción de la metodología de evaluación y examinar los diferentes niveles de la competencia, ya que es probable que se deban validar.
+      .row.justify-content-center.align-items-center.mb-5           
+        .col-lg-10
+          .cajon.color-acento-contenido.p-4(data-aos="flip-down")
+            p(data-aos="fade-down").mb-0 Además, es necesario contar con la descripción de la metodología de evaluación y examinar los diferentes niveles de la competencia, ya que es probable que se deban validar.
 
     p(data-aos="fade-down").mb-5 Martha Alles (2016) propone un modelo de evaluación por competencias, el cual se expone a continuación:
     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.svg', alt='')                 

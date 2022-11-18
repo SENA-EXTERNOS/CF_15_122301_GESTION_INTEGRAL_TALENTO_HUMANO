@@ -48,7 +48,7 @@
               p.mb-0 En la primera no hay un orden establecido para el desarrollo de las preguntas, estas irán ocurriendo de acuerdo con el momento y el candidato. No es recomendable realizarla ya que se pierde el orden y no se tienen un criterio para indagar sobre todos los candidatos de la misma manera.
             li 
               i.fas.fa-angle-right.colorv
-              p.mb-0 La segunda es polo opuesto a la primera, porque tiene preguntas regidas realizadas a forma de checklist sin poder hacer cambios o ajustes.
+              p.mb-0 La segunda es polo opuesto a la primera, porque tiene preguntas regidas realizadas a forma de <em>checklist </em>sin poder hacer cambios o ajustes.
             li.mb-0 
               i.fas.fa-angle-right.colorv
               p.mb-0 La tercera es la más recomendable porque aunque hay unas preguntas pre establecidas, es importante que el entrevistador tenga la capacidad para agregar o profundizar según lo que el candidato vaya narrando, pues esta entrevista es caracterizada por ser una conversación fluida, donde las dos partes se sientan cómodos, y el candidato pueda contar genuinamente quién es y sus experiencias previas; es indispensable mantener el orden e hilo conductor que propone la estructura.
@@ -72,7 +72,7 @@ export default {
       {
         titulo: 'Presentación ',
         texto:
-          'Iniciar por construir empatía y rapport con el candidato para que pueda sosegar la ansiedad que genera el momento. Una buena forma de hacerlo es recordar un poco sobre la vacante que se está ofreciendo y puntualizar en detalles.',
+          'Iniciar por construir empatía y <i>rapport</i> con el candidato para que pueda sosegar la ansiedad que genera el momento. Una buena forma de hacerlo es recordar un poco sobre la vacante que se está ofreciendo y puntualizar en detalles.',
         icono: require('@/assets/curso/temas/37.svg'),
       },
       {

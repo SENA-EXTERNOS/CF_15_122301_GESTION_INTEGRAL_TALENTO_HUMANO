@@ -18,7 +18,7 @@
             h4(data-aos="fade-down").mb-0  Antecedentes de selección
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9
-          p(data-aos="fade-down") Antes de comenzar a precisar en el concepto de selección de personal es inevitable remitirse a la revolución industrial. Noya et al. (2001) en Selección de personal indican que “esta época trajo consigo la transformación del concepto de ‘trabajo’, generando una necesidad procedimental de las relaciones laborales; entiendo esta relación no únicamente en el marco legal sino la relación empleador y empleado” (p. 25). En este orden de ideas, se construyó la relación directa de conocimiento entre los representantes de las organizaciones y los candidatos; proceso hoy conocido como selección de personal para desempeñar un determinado trabajo
+          p(data-aos="fade-down") Antes de comenzar a precisar en el concepto de selección de personal es inevitable remitirse a la revolución industrial. Noya et al. (2001) en <i>Selección de personal</i> indican que “esta época trajo consigo la transformación del concepto de ‘trabajo’, generando una necesidad procedimental de las relaciones laborales; entiendo esta relación no únicamente en el marco legal sino la relación empleador y empleado” (p. 25). En este orden de ideas, se construyó la relación directa de conocimiento entre los representantes de las organizaciones y los candidatos; proceso hoy conocido como selección de personal para desempeñar un determinado trabajo
           .cajon.color-acento-contenido.p-4(data-aos="flip-down")
             p(data-aos="fade-down").mb-0 Hoy en día el proceso de selección tiene un rol protagónico en las empresas y en el área de gestión del talento humano, pues permite el ingreso o no de personal a la compañía a través de la aplicación de diferentes filtros y etapas, generando un valor agregado al proceso, y aportando a la estrategia corporativa.  
         .col-lg-3
@@ -32,10 +32,10 @@
             h4(data-aos="fade-down").mb-0 Tipos de selección
 
       .row.justify-content-center.align-items-center.mb-5           
-        .col-lg-10(data-aos="zoom-in")
+        .col-lg-12(data-aos="zoom-in")
           .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
-              :style="{'background-image': `url(${require('@/assets/curso/temas/5.png')})`}"
+              :style="{'background-image': `url(${require('@/assets/curso/temas/5.svg')})`}"
             )
             .bloque-texto-g__texto.p-4
               p.mb-0 Después de conocer que el proceso de selección viene de años atrás, es importante resaltar que en la actualidad ha evolucionado y presenta dos tipos de selección de personal: #[b tradicional y por competencias]. El primero de ellos es rígido, poco adaptable al cambio, diseñado en términos jerárquicos y está basado en la subjetividad del evaluador en el momento de realizar la elección. Es considerado un tipo de selección que presenta falta de utilidad y carece de valor agregado tanto en los procesos de la organización como en la estrategia corporativa
@@ -47,23 +47,23 @@
         .col-lg-10    
           PasosA.color-secundario(tipo="l")
             .row.justify-content-center.align-items-center
-              .col-lg-9.my-3
+              .col-lg-8.my-3
                 p(data-aos="fade-left") Un modelo que permite seleccionar, evaluar y desarrollar a las personas en pro de alcanzar la estrategia corporativa. Para poder implementarlo se precisa tener descritas las competencias para cada cargo tanto a nivel transversales como específicas.  
-              .col-lg-3.my-3
+              .col-lg-4.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.png', alt='')
             .row.justify-content-center.align-items-center
-              .col-lg-3.order-1.my-3
+              .col-lg-4.order-1.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.png', alt='')            
-              .col-lg-9.text-start.order-lg-2.my-3
+              .col-lg-8.text-start.order-lg-2.my-3
                 p(data-aos="fade-right") Las primeras se aplican a toda la organización y las segundas son propias con cada nivel, área o cargos. Tener las competencias definidas concluye un trabajo previo sobre descripción de manual de perfiles y funciones, visión, misión, objetivos organizacionales y estrategia corporativa; partiendo de lo macro a lo micro.
             .row.justify-content-center.align-items-center
-              .col-lg-9.my-3
+              .col-lg-8.my-3
                 p(data-aos="fade-left") Aunque no es materia de este componente el tema de las competencias es pertinente enmarcar un poco su definición. Es necesario precisar que son comportamientos, es decir, son medibles, provienen de la personalidad, generan un buen desempeño laboral y son diferentes a los conocimientos técnicos requeridos 
-              .col-lg-3.my-3
+              .col-lg-4.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/9.png', alt='') 
 
       .row.justify-content-center.align-items-center.mb-5           
-        .col-lg-8
+        .col-lg-9
           .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
             h5 Tabla. 
             span Comparativo entre conocimientos y competencias 
@@ -75,14 +75,14 @@
                   th Competencias
               tbody          
                 tr.bgt2
-                  td idiomas  
-                  td servicio al cliente
+                  td Idiomas  
+                  td Servicio al cliente
                 tr
-                  td cálculo matemático  
-                  td liderazgo 
+                  td Cálculo matemático  
+                  td Liderazgo 
                 tr.bgt2
-                  td ofimática  
-                  td orientación  al resultado 
+                  td Ofimática  
+                  td Orientación  al resultado 
 
       .row.justify-content-center.align-items-start.mb-5           
         .col-lg-2.my-3

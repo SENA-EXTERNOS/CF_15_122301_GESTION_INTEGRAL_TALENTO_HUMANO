@@ -101,8 +101,9 @@
           div.text-center.bg7.p-4.pt-5.h-100
             p.mb-0 Elaboración de matrices de riesgos, gerencias de riesgos, entre otros. 
 
+    p(data-aos="fade-down") Por último, referente a este tema, es necesario resumir que esta etapa debe ejecutarse con un propósito y un sentido. Será probable que cierto tipo de cargos no tengan la necesidad de aplicar estudios de seguridad ya que los factores que determinan la ejecución o no del mismo será la exposición a riesgos financieros, manejo de información confidencial o según el core del negocio. Además, hay que tener presente que esto genera un costo en el proceso de consecución de personal.  
 
-    .cajon.color-primario.p-4.mb-5(data-aos="flip-down")
+    .cajon.color-primario.p-4.my-5(data-aos="flip-down")   
       p(data-aos="fade-down").mb-0 Es significativo que la organización determine bajo qué criterios el estudio será aprobado o no; porque posiblemente para una compañía del sector financiero si el candidato está reportado ante centrales de riesgo sea un factor no negociable y definitivo para arrojar  en el estudio un ‘no apto’; mientras que para una compañía del sector tecnológico esta causa no tenga ninguna relevancia.  La aprobación la determinará el sector dedicado de la empresa, los riesgos a los cuales se enfrenta, la responsabilidad del cargo, entre otros elementos.
 
     .row.justify-content-start.align-items-center.mb-5           
@@ -135,7 +136,7 @@
           .col-md-7.mb-4.mb-md-0
             p La historia clínica hace parte de la información ocupacional del colaborador, por lo cual solo puede tener acceso a ella un médico con licencia en salud ocupacional, es decir es información de acceso confidencial. 
 
-            p El personal de gestión humano tendrá acceso respecto al concepto emitido, sea apto o no apto, por el medico según los resultados obtenidos, y con esta información establecer si se realiza o no la contratación cuidando la salud del candidato. Sí llegara a presentar alguna preexistencia de enfermedades la empresa contratante deberá decidir si puede adecuar las funciones para que no generen mayor afectación en términos de salud o si por el contrario las actividades a desarrollar irán en contravía del buen estado de salud; hecho que no es permitido porque que hay que velar por el cuidado y salud de los colaboradores.
+            p El personal de gestión humano tendrá acceso respecto al concepto emitido, sea apto o no apto, por el médico según los resultados obtenidos, y con esta información establecer si se realiza o no la contratación cuidando la salud del candidato. Sí llegará a presentar alguna preexistencia de enfermedades la empresa contratante deberá decidir si puede adecuar las funciones para que no generen mayor afectación en términos de salud o si por el contrario las actividades a desarrollar irán en contravía del buen estado de salud; hecho que no es permitido porque que hay que velar por el cuidado y salud de los colaboradores.
         
           .col-md-4
             img.img-a.img-t(src='@/assets/curso/temas/60.png', alt='') 
@@ -155,7 +156,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/62.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 De acuerdo con la Ley 1562 la enfermedad profesional o laboral se adquiere cuando un colaborador está expuesto a diferentes factores de riesgo propios de la actividad que desarrolla o del medio ambiente en el cual las desarrolla. Dicho dictamen lo determinará el personal competente de salud, donde intervienen entidades como entidad promotora de salud (EPS), junta de regional o nacional de calificación, según cada caso. 
+            p.mb-0 De acuerdo con la <b>Ley 1562</b> la enfermedad profesional o laboral se adquiere cuando un colaborador está expuesto a diferentes factores de riesgo propios de la actividad que desarrolla o del medio ambiente en el cual las desarrolla. Dicho dictamen lo determinará el personal competente de salud, donde intervienen entidades como entidad promotora de salud (EPS), junta de regional o nacional de calificación, según cada caso. 
             
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-2.my-3

@@ -72,7 +72,7 @@
             h4(data-aos="fade-down").mb-0 Personalidad 
       .row.justify-content-center.align-items-start.mb-5           
         .col-lg-2.my-3
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='')    
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/21.svg', alt='')    
         .col-lg-10.my-3
           p(data-aos="fade-down").mb-0 En el proceso de selección de personal veíamos como formas de evaluar a un candidato la retrospectiva y la prospectiva; además de estas es necesario tener en cuenta el conjunto de rasgos y cualidades que tiene cada persona que la diferencia de los demás, estas características deben ser consideradas y analizadas según la necesidad de la vacante buscada.  
 
@@ -82,11 +82,11 @@
         .col-lg-7  
           LineaTiempoD.color-primario
             .row.justify-content-center.align-items-start(numero="A" titulo="Montaño et al. (2009)")
-              p Según Montaño et al. (2009), en Teorías de la personalidad. Un análisis histórico del concepto y su medición, explica que “El estudio de la personalidad se puede remontar alrededor de un siglo antes de Cristo; desde entonces los Griegos se interesaron por personificar diferentes papeles en el drama de dicha cultura, para lo que las personas utilizaban máscaras que cubrían sus rostros; de esta manera les era posible representar distintos estilos de vida diferentes a los propios, sin dejar de ser ellos mismos. Es decir, asumir diferentes personalidades dentro de una misma persona, por lo cual el concepto personalidad se origina del término persona.” (p.82)
- 
+              p Según Montaño et al. (2009), en <i>Teorías de la personalidad. Un análisis histórico del concepto y su medición</i>, explica que “El estudio de la personalidad se puede remontar alrededor de un siglo antes de Cristo; desde entonces los Griegos se interesaron por personificar diferentes papeles en el drama de dicha cultura, para lo que las personas utilizaban máscaras que cubrían sus rostros; de esta manera les era posible representar distintos estilos de vida diferentes a los propios, sin dejar de ser ellos mismos. Es decir, asumir diferentes personalidades dentro de una misma persona, por lo cual el concepto personalidad se origina del término persona.” (p.82)
+            .row.justify-content-center.align-items-start(numero="B" titulo="Montaño et al. (2009)") 
               p Aunque ha habido un gran recorrido en camino de definir personalidad, Montaño et al. (2009), concluyen que desde un ámbito social es el resultado de varias características pertenecientes a la base social en la cual se encuentra inmersa una persona. “La personalidad se puede configurar a partir de las exigencias, demandas y estímulos que ponen a prueba sus características individuales, que le permiten desempeñarse en la comunidad.”(p. 84).
 
-            .row.justify-content-center.align-items-start(numero="B" titulo="Chiavenato, I (2008)")
+            .row.justify-content-center.align-items-start(numero="C" titulo="Chiavenato, I (2008)")
               p Por otro lado, Chiavenato, I (2008), define la palabra personalidad como “la integración única de características medibles que se relacionan con aspectos permanentes y consistentes de una persona. Esas características se identifican como rasgos de la personalidad y distinguen a una persona de las demás. Las pruebas de personalidad revelan ciertos aspectos de las características superficiales de las personas, como los determinados por el carácter (rasgos adquiridos o fenotipos) y los determinados por el temperamento (rasgos innatos o genotipos)”. (p. 197).                                  
         .col-lg-5  
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/22.svg', alt='')    
@@ -94,7 +94,7 @@
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
           .cajon.color-primario.p-4(data-aos="flip-down")
-            p(data-aos="fade-down").mb-0 Además de las definiciones presentadas, hay seis teorías sobre la personalidad: la teoría <i>psicodinámica, fenomenológica, de los rasgos, conductual, cognitiva e integradora</i>, ellas intentan explicar cómo se constituye la personalidad humana. 
+            p(data-aos="fade-down").mb-0 Además de las definiciones presentadas, hay seis teorías sobre la personalidad: la teoría <b><i>psicodinámica, fenomenológica, de los rasgos, conductual, cognitiva e integradora</i></b>, ellas intentan explicar cómo se constituye la personalidad humana. 
 
       p(data-aos="fade-down").mb-5 A continuación, se presentará un breve resumen de cada una de ellas:
 
@@ -147,7 +147,7 @@
         .cajon.color-acento-contenido.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Sin embargo, es evidente que la definición es amplia y ambigua; al ser contextualizada en la práctica, lo más probable es que una persona sea capaz de resolver un problema financiero pero no de solucionar uno de mantenimiento, o por el contrario puede que la persona tenga experiencia en arreglo de maquinaria pero no en liderazgo de equipos.
 
-    p(data-aos="fade-down").mb-5 En los años 80’s Howard Garner cambió la forma de ver la inteligencia, él instaura siete diferentes tipos de inteligencia para todos los seres humanos: espacial, kinestésico, musical, lingüístico, lógico matemático, interpersonal e intrapersonal.
+    p(data-aos="fade-down").mb-5 En los años 80’s Howard Garner cambió la forma de ver la inteligencia, él instaura siete diferentes tipos de inteligencia para todos los seres humanos: <b>espacial, kinestésico, musical, lingüístico, lógico matemático, interpersonal e intrapersonal.</b>
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -172,24 +172,27 @@
             p.mb-0 Se facilita pensar de manera lógica, inductiva o también deductiva; para reconocer pautas geométricas o numéricas y para manejar números. Es la habilidad para ordenar hechos, relacionar causas, efectos, y distinguir cantidades.    
 
           .tarjeta.color-primario.p-3(x="86.5%" y="31%" numero="+")
-            p.mb-0 Conecta y se comunica con otros de forma sobresaliente y fácilmente a través de la empatía y el rapport. 
+            p.mb-0 Conecta y se comunica con otros de forma sobresaliente y fácilmente a través de la empatía y el <em>rapport</em>. 
 
           .tarjeta.color-primario.p-3(x="82.5%" y="65%" numero="+")
             p.mb-0 Caracterizada por el autodominio y autocontrol a través de la examinación así mismo y actividades introspectivas. 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-10(data-aos="zoom-in")
+      .col-lg-12(data-aos="zoom-in")
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/31.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Lo anterior permite dar la razón a afirmaciones como “no hay personas más inteligentes que otras”, por el contrario, resalta que todos los seres humanos son inteligentes con mayor medida para ciertos aspectos que para otros. Es importante precisar que todas las personas tienen características de los diferentes tipos de inteligencias, pero algunas sobresalen en mayor medida, y otras con la práctica se pueden desarrollar. Por ello, en el proceso de selección es pertinente evaluar a cada candidato de forma independiente y según las necesidades del cargo. 
-
+    .row.justify-content-start.align-items-center.mb-5           
+      .col-auto
+        .bgp.p-1(data-aos="fade-right")
+          h4(data-aos="fade-down").mb-0 Conceptos actitud y aptitud 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         p(data-aos="fade-down") Así como los diferentes tipos de inteligencia, también es importante conocer dos conceptos en el momento de seleccionar personas: la actitud y aptitud, ambas tienen una gran relevancia y ninguna demerita a la otra. Cuando se refiere a la actitud de un candidato o colaborador se enmarca todas las características de personalidad y competencias blandas que pueda tener o que necesite para desempeñar el cargo, es la forma como enfrenta ciertas situaciones y el temperamento para los diferentes momentos de la vida o contexto laboral.       
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Por otra parte, la aptitud comprende las capacidades, habilidades y conocimientos; es decir todas las exigencias a nivel técnico que se solicita para desempeñar una actividad.Aunque las dos son importantes, las empresas cada día prefieren contratar candidatos donde sus conocimientos técnicos o sus capacidades no sean sobresalientes, pero su actitud positiva sí sea destacada.
+          p(data-aos="fade-down").mb-0 Por otra parte, la aptitud comprende las capacidades, habilidades y conocimientos; es decir todas las exigencias a nivel técnico que se solicita para desempeñar una actividad. Aunque las dos son importantes, las empresas cada día prefieren contratar candidatos donde sus conocimientos técnicos o sus capacidades no sean sobresalientes, pero su actitud positiva sí sea destacada.
         p(data-aos="fade-down") Esta premisa nace bajo la evidencia que ejemplifica la facilidad y rapidez de enseñar y aprender mediante la práctica, en contraposición con la dificultad para cambiar o adquirir aspectos nuevos de la personalidad; estos últimos han acompañado toda la vida al ser humano, están arraigados a las creencias y experiencias de cada uno.
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/32.png', alt='')                      

@@ -241,11 +241,12 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Alles, M. (2016). Selección por competencias. Granica.',
+      referencia:
+        'Alles, M. (2016). <i>Selección por competencias.</i> Granica.',
     },
     {
       referencia:
-        'Chiavenato, I (2008). Gestión del talento humano. McGrawHill.',
+        'Chiavenato, I (2008). <i>Gestión del talento humano</i>. McGrawHill.',
     },
     {
       referencia:
@@ -253,11 +254,11 @@ export default {
     },
     {
       referencia:
-        'International organization for standarization, (2008) ISOO 1486. Quality management systems. Ginebra: ISO.',
+        '<i>International organization for standarization<i>, (2008) ISOO 1486. </i>Quality management systems<i>. Ginebra: ISO.',
     },
     {
       referencia:
-        'Llanos, J (2005). Cómo entrevistar en la selección de personal. Pax México.',
+        'Llanos, J (2005). <i>Cómo entrevistar en la selección de personal</i>. Pax México.',
     },
     {
       referencia:
@@ -269,12 +270,12 @@ export default {
     },
     {
       referencia:
-        'Montaño, M., Palacios, J., Gantiva, C. (2009). Teorías de la personalidad. Un análisis histórico del concepto y su medición. Psychologia. Avances de la disciplina, vol. 3, núm. 2, pp. 81-107. ',
+        'Montaño, M., Palacios, J., Gantiva, C. (2009). <i>Teorías de la personalidad. Un análisis histórico del concepto y su medición</i>. Psychologia. Avances de la disciplina, vol. 3, núm. 2, pp. 81-107. ',
       link: 'https://www.redalyc.org/articulo.oa?id=297225531007',
     },
     {
       referencia:
-        'Noya, M., Hierro, E., Jiménez, J. (2001). Selección de personal. ESIC.',
+        'Noya, M., Hierro, E., Jiménez, J. (2001). <i>Selección de personal.</i> ESIC.',
     },
     {
       referencia:
@@ -282,7 +283,7 @@ export default {
     },
     {
       referencia:
-        'Rodríguez, A. (2001). Las pruebas psicometrías en la contratación de personal Boletín científico de la escuela superior Tepeji del Río.  No. 12  77-82. ',
+        'Rodríguez, A. (2001). <i>Las pruebas psicometrías en la contratación de personal Boletín científico de la escuela superior Tepeji del Río</i>.  No. 12  77-82. ',
       link:
         'https://repository.uaeh.edu.mx/revistas/index.php/tepexi/article/view/4419/6440',
     },

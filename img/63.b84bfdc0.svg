@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="111" viewBox="0 0 190 111">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7ca2e" stop-opacity="0"/>
+      <stop offset="0.091" stop-color="#f7ca2e" stop-opacity="0.129"/>
+      <stop offset="0.283" stop-color="#f7ca2e" stop-opacity="0.388"/>
+      <stop offset="0.465" stop-color="#f7ca2e" stop-opacity="0.612"/>
+      <stop offset="0.633" stop-color="#f7ca2e" stop-opacity="0.78"/>
+      <stop offset="0.784" stop-color="#f7ca2e" stop-opacity="0.902"/>
+      <stop offset="0.911" stop-color="#f7ca2e" stop-opacity="0.969"/>
+      <stop offset="1" stop-color="#f7ca2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b13e8d" stop-opacity="0"/>
+      <stop offset="0.091" stop-color="#b13e8d" stop-opacity="0.129"/>
+      <stop offset="0.283" stop-color="#b13e8d" stop-opacity="0.388"/>
+      <stop offset="0.465" stop-color="#b13e8d" stop-opacity="0.612"/>
+      <stop offset="0.633" stop-color="#b13e8d" stop-opacity="0.78"/>
+      <stop offset="0.784" stop-color="#b13e8d"/>
+      <stop offset="0.911" stop-color="#b13e8d" stop-opacity="0.969"/>
+      <stop offset="1" stop-color="#b13e8d"/>
+    </linearGradient>
+    <filter id="Rectángulo_40715" x="41" y="3" width="108" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_41360" data-name="Rectángulo 41360" width="63" height="68" transform="translate(0.5 0.364)" fill="none" stroke="#6836bf" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_136155" data-name="Grupo 136155" transform="translate(-171 -4007)">
+    <g id="Grupo_133510" data-name="Grupo 133510" transform="translate(-13 2695)">
+      <rect id="Rectángulo_40586" data-name="Rectángulo 40586" width="190" height="20" transform="translate(184 1357)" fill="none"/>
+      <g id="Grupo_108405" data-name="Grupo 108405" transform="translate(213.5 1376)">
+        <path id="Rectángulo_5242" data-name="Rectángulo 5242" d="M0,0H12a0,0,0,0,1,0,0V43.333a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V0A0,0,0,0,1,0,0Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_108406" data-name="Grupo 108406" transform="translate(344 1364) rotate(180)">
+        <path id="Rectángulo_5242-2" data-name="Rectángulo 5242" d="M0,0H12a0,0,0,0,1,0,0V49a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V0A0,0,0,0,1,0,0Z" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 184, 1312)" filter="url(#Rectángulo_40715)">
+        <path id="Rectángulo_40715-2" data-name="Rectángulo 40715" d="M10,0H80A10,10,0,0,1,90,10V90a0,0,0,0,1,0,0H10A10,10,0,0,1,0,80V10A10,10,0,0,1,10,0Z" transform="translate(50 9)" fill="#f6f6f6"/>
+      </g>
+    </g>
+    <g id="Grupo_133567" data-name="Grupo 133567" transform="translate(234.5 4024.637)">
+      <g id="Grupo_133566" data-name="Grupo 133566" clip-path="url(#clip-path)">
+        <circle id="Elipse_5211" data-name="Elipse 5211" cx="10" cy="10" r="10" transform="translate(41.5 35.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Trazado_190352" data-name="Trazado 190352" d="M32,38V50.886l5.727-5.727,5.727,5.727V38" transform="translate(13.818 16.409)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Trazado_190353" data-name="Trazado 190353" d="M55.409,31.068V3.864A2.863,2.863,0,0,0,52.545,1H12.455L1,12.455V64a2.863,2.863,0,0,0,2.864,2.864H42.523" transform="translate(0.432 0.432)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Trazado_190354" data-name="Trazado 190354" d="M12.455,1V9.591a2.863,2.863,0,0,1-2.864,2.864H1" transform="translate(0.432 0.432)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Línea_419" data-name="Línea 419" x2="32" transform="translate(18.5 20.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Línea_420" data-name="Línea 420" x2="43" transform="translate(7.5 27.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Línea_421" data-name="Línea 421" x2="34" transform="translate(7.5 34.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Línea_422" data-name="Línea 422" x2="30" transform="translate(7.5 41.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Línea_423" data-name="Línea 423" x2="30" transform="translate(7.5 48.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Línea_424" data-name="Línea 424" x2="33" transform="translate(7.5 55.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Trazado_190355" data-name="Trazado 190355" d="M31,5h2.864a2.863,2.863,0,0,1,2.864,2.864v2.864" transform="translate(13.386 2.159)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Línea_425" data-name="Línea 425" x1="3" transform="translate(38.5 7.364)" fill="none" stroke="#6836bf" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -12,9 +12,9 @@
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/1.svg', alt='')    
       .col-lg-10.my-3
-        p(data-aos="fade-down").mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se hará un recorrido en el marco del desarrollo de todos los procesos de la gestión de talento humano. Es preciso destacar que la correcta ejecución del proceso de evaluación y selección de candidatos tiene una gran relevancia y determinará el funcionamiento de los procesos que se desarrollen posteriormente en la organización. Adicionalmente, contar con las personas correctas permitirá que la empresa alcance sus indicadores, y genere una diferencia con la competencia de manera significativa.
+        p(data-aos="fade-down").mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se hará un recorrido en el marco del desarrollo de todos los procesos de la gestión de talento humano. Es preciso destacar que la correcta ejecución del proceso de evaluación y selección de candidatos tiene una gran relevancia y determinará el funcionamiento de los procesos que se desarrollen, posteriormente, en la organización. Adicionalmente, contar con las personas correctas permitirá que la empresa alcance sus indicadores, y genere una diferencia con la competencia de manera significativa.
 
-    p(data-aos="fade-down").mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará en el presente recurso educativo.
+    p(data-aos="fade-down").mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     

@@ -38,7 +38,7 @@
 
     .row.justify-content-center.align-items-start.mb-5 
       .col-lg-4
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')        
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35-.png', alt='')        
       .col-lg-8
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0

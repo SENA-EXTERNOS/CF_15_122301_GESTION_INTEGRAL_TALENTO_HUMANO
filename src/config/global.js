@@ -158,22 +158,22 @@ export default {
     {
       tema: 'Entrevistas de selección',
       referencia:
-        'Aamodt, M (2010). Psicología. <i>industrial/organizacional Cengage Learning Editores<i/>.',
-      tipo: 'Documento ',
+        'Aamodt, M. (2010). Psicología. <i>industrial/organizacional.</i> Cengage Learning Editores.',
+      tipo: 'Documento',
       link:
         'http://repositorio.uasb.edu.bo:8080/bitstream/54000/1297/1/Aamodt-%20Psicolog%C3%ADa%20organizacional.pdf',
     },
     {
-      tema: 'Elaboración de <i>ranking</i> candidatos opcionados',
+      tema: 'Evaluación del candidato',
       referencia:
-        'Factorial HR España. <i>¿Cómo atraer talento en entornos competitivos?</i> ',
+        'Factorial HR España. <i>¿Cómo atraer talento en entornos competitivos?</i> [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=cTNQvp_gibM',
     },
     {
-      tema: 'Tipos de selección',
+      tema: 'Evaluación del candidato',
       referencia:
-        'Grupo Adecco (2021, enero 15). La Cuarta Revolución Industrial, una nueva era de las competencias laborales. ',
+        'Grupo Adecco (2021). <i>La Cuarta Revolución Industrial, una nueva era de las competencias laborales</i> [Web log post].',
       tipo: 'Blog',
       link:
         'https://mundoadecco.com/la-cuarta-revolucion-industrial-una-nueva-era-de-las-competencias-laborales/',
@@ -181,7 +181,7 @@ export default {
     {
       tema: 'Entrevista de selección',
       referencia:
-        'Hays (2022). Estas son las <i>soft skills</i> esenciales para brillar en una entrevista. ',
+        'Hays. (2022). <i>Estas son las soft skills esenciales para brillar en una entrevista </i>[Web log post]. ',
       tipo: 'Blog',
       link:
         'https://www.hays.com.co/contenido/blog-consejos-de-carrera/insights/soft-skills-para-brillar-en-una-entrevista',

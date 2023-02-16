@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Evaluación y selección de candidatos de manera idónea
-        p.mb-4 Apreciado aprendiz, a continuación encontrará una actividad didáctica para afianzar los conceptos y aprendizajes del componente de formación. Lea atentamente las siguientes afirmaciones y seleccione falso o verdadero según corresponda.
+        p.mb-4 Apreciado aprendiz, a continuación, encontrará una actividad didáctica para afianzar los conceptos y aprendizajes del componente de formación. Lea atentamente las siguientes afirmaciones y seleccione falso o verdadero según corresponda: 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

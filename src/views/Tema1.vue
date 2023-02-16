@@ -40,7 +40,7 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 Después de conocer que el proceso de selección viene de años atrás, es importante resaltar que en la actualidad ha evolucionado y presenta dos tipos de selección de personal: #[b tradicional y por competencias]. El primero de ellos es rígido, poco adaptable al cambio, diseñado en términos jerárquicos y está basado en la subjetividad del evaluador en el momento de realizar la elección. Es considerado un tipo de selección que presenta falta de utilidad y carece de valor agregado tanto en los procesos de la organización como en la estrategia corporativa
 
-    p(data-aos="fade-down").mb-5 El segundo de ellos, según Alles, M. (2016), es:
+    p(data-aos="fade-down").mb-5 Una vez nos queda claro de qué se trata el primero, veamos el segundo de ellos que, según Alles, M. (2016), es: 
 
     .bg2
       .row.justify-content-center.align-items-center.mb-5           
@@ -65,8 +65,9 @@
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-9
           .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
-            h5 Tabla. 
-            span Comparativo entre conocimientos y competencias 
+            h5 Tabla 1
+            p.mb-0
+              em Comparativo entre conocimientos y competencias
           .tabla-a.color-primario.mb-5(data-aos="fade-left") 
             table
               thead

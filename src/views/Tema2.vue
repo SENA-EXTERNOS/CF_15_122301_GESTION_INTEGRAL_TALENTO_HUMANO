@@ -19,7 +19,7 @@
 
       .row.justify-content-center.align-items-start.mb-5 
         .col-lg-10.my-3
-          p(data-aos="fade-down").mb-0 Las pruebas son el primer filtro que se ejecuta en el proceso de evaluación y selección. Por ello, para garantizar la selección de forma idónea y alineada a las necesidades del cargo, cultura y estrategia corporativa es necesario contar con instrumentos que permitan realizar la medición de forma objetiva y garanticen la transparencia del proceso. Existen diferentes tipos de pruebas que se suelen utilizar para evaluar a un candidato, entre ellas se encuentran las técnicas, psicotécnicas, psicológicas, psicométricas y proyectivas. 
+          p(data-aos="fade-down").mb-0 Las pruebas son el primer filtro que se ejecuta en el proceso de evaluación y selección. Por ello, para garantizar la selección de forma idónea y alineada a las necesidades del cargo, cultura y estrategia corporativa, es necesario contar con instrumentos que permitan realizar la medición de forma objetiva y garanticen la transparencia del proceso. Existen diferentes tipos de pruebas que se suelen utilizar para evaluar a un candidato y, entre ellas, se encuentran las técnicas, psicotécnicas, psicológicas, psicométricas y proyectivas. 
         .col-lg-2.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/14.svg', alt='')
       p(data-aos="fade-down").mb-5 A continuación, se explicará el objetivo de cada una de ellas y su aporte en el proceso de selección, a través del siguiente video:
@@ -35,7 +35,7 @@
         h2 2.2 Retrospectivas y prospectiva  
 
       p(data-aos="fade-down") Además de los tipos de pruebas expuestos, existe otra forma de evaluar al candidato y es a través de la técnica de simulación. Esta consiste en realizar ejercicios que permitan al reclutador pronosticar cómo se comportará en cierta situación el candidato y cuáles estrategias emplea para resolver algún problema u momento difícil. Para ejecutar esta prueba existen dos métodos, el primero es el juego de roles y el segundo es el análisis de caso. Las anteriores metodologías, en la mayoría de los casos, son construidas por la empresa según la necesidad del cargo que se esté buscando.
-      p(data-aos="fade-down").mb-5 A continuación se abordará cada método
+      p(data-aos="fade-down").mb-5 A continuación, se abordará cada método:
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
@@ -76,7 +76,7 @@
         .col-lg-10.my-3
           p(data-aos="fade-down").mb-0 En el proceso de selección de personal veíamos como formas de evaluar a un candidato la retrospectiva y la prospectiva; además de estas es necesario tener en cuenta el conjunto de rasgos y cualidades que tiene cada persona que la diferencia de los demás, estas características deben ser consideradas y analizadas según la necesidad de la vacante buscada.  
 
-      p(data-aos="fade-down").mb-5 A continuación, se citarán dos autores que definen la palabra personalidad: 
+      p(data-aos="fade-down").mb-5 Teniendo en cuenta lo anterior, se citarán dos autores que definen la palabra personalidad: 
 
       .row.justify-content-center.align-items-start.mb-5           
         .col-lg-7  
@@ -147,7 +147,7 @@
         .cajon.color-acento-contenido.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Sin embargo, es evidente que la definición es amplia y ambigua; al ser contextualizada en la práctica, lo más probable es que una persona sea capaz de resolver un problema financiero pero no de solucionar uno de mantenimiento, o por el contrario puede que la persona tenga experiencia en arreglo de maquinaria pero no en liderazgo de equipos.
 
-    p(data-aos="fade-down").mb-5 En los años 80’s Howard Garner cambió la forma de ver la inteligencia, él instaura siete diferentes tipos de inteligencia para todos los seres humanos: <b>espacial, kinestésico, musical, lingüístico, lógico matemático, interpersonal e intrapersonal.</b>
+    p(data-aos="fade-down").mb-5 En los años 80’s Howard Garner cambió la forma de ver la inteligencia; él instaura siete diferentes tipos de inteligencia para todos los seres humanos: <b>espacial, kinestésico, musical, lingüístico, lógico matemático, interpersonal e intrapersonal.</b> Veamos:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10

@@ -33,7 +33,7 @@
             p.mb-0 Esta trazabilidad tiene como objetivo que cualquier persona, autorizada, pueda acceder al detalle del proceso. Para presentar de forma estandarizada este informe se encuentra la guía técnica <em>International Organization for Standarization</em> (2008), la cual da lineamientos claros para la ejecución de este documento.  
 
     .cajon.color-primario.p-4(data-aos="flip-down")
-      p(data-aos="fade-down").mb-0 Ha finalizado el estudio de este componente formativo, recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.                                   
+      p(data-aos="fade-down").mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.                               
 </template>
 
 <script>

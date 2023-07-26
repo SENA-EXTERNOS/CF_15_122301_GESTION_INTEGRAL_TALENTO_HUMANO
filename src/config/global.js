@@ -283,7 +283,7 @@ export default {
     },
     {
       referencia:
-        'Rodríguez, A. (2001). <i>Las pruebas psicometrías en la contratación de personal Boletín científico de la escuela superior Tepeji del Río</i>.  No. 12  77-82. ',
+        'Rodríguez, A. (2001). <i>Las pruebas psicométricas en la contratación de personal Boletín científico de la escuela superior Tepeji del Río</i>.  No. 12  77-82. ',
       link:
         'https://repository.uaeh.edu.mx/revistas/index.php/tepexi/article/view/4419/6440',
     },

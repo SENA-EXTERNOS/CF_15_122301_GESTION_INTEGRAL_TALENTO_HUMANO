@@ -178,14 +178,6 @@ export default {
       link:
         'https://mundoadecco.com/la-cuarta-revolucion-industrial-una-nueva-era-de-las-competencias-laborales/',
     },
-    {
-      tema: 'Entrevista de selección',
-      referencia:
-        'Hays. (2022). <i>Estas son las soft skills esenciales para brillar en una entrevista </i>[Web log post]. ',
-      tipo: 'Blog',
-      link:
-        'https://www.hays.com.co/contenido/blog-consejos-de-carrera/insights/soft-skills-para-brillar-en-una-entrevista',
-    },
   ],
   glosario: [
     {
